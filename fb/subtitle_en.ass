@@ -1,0 +1,405 @@
+[Script Info]
+Title: [Erai-raws] English (US)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0018,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0020,0020,0018,0
+Style: Main - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0020,0020,0018,0
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0018,0
+Style: Main - Top + Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,8,0010,0010,0018,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0018,1
+Style: Flashback - Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0018,1
+Style: Flashback - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0018,1
+Style: Flashback - Top + Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.29,0:00:05.71,Main,,0000,0000,0000,,{\i1}Once again, the maidens gather\Nin the gardens of Acala{\i}
+Dialogue: 0,0:00:05.83,0:00:12.38,Main,,0000,0000,0000,,{\i1}and cross the Tama River with smiles\Nas pure as those of the Shinsengumi.{\i}
+Dialogue: 0,0:00:13.05,0:00:17.51,Main,,0000,0000,0000,,{\i1}Their bodies and hearts, never once\Nsullied, are clad in pure white clothes.{\i}
+Dialogue: 0,0:00:17.64,0:00:20.39,Main,,0000,0000,0000,,{\i1}The pleats of their skirts\Nwithout a single wrinkle,{\i}
+Dialogue: 0,0:00:20.52,0:00:24.02,Main,,0000,0000,0000,,{\i1}their blue sailor scarves\Nbothered not by the wind.{\i}
+Dialogue: 0,0:00:24.14,0:00:28.19,Main,,0000,0000,0000,,{\i1}They walk slowly and delicately.{\i}
+Dialogue: 0,0:00:28.77,0:00:32.57,Main,,0000,0000,0000,,{\i1}Metropolitan Hinominami High School,\Nthe garden of the maidens.{\i}
+Dialogue: 0,0:00:32.69,0:00:34.11,Main,,0000,0000,0000,,{\i1}(It's a coed school, though.){\i}
+Dialogue: 0,0:00:35.11,0:00:37.95,Main,,0000,0000,0000,,Good morning to you, lovely viewers!
+Dialogue: 0,0:02:17.01,0:02:21.89,Signs,,0000,0000,0000,,{\fs24\an8\c&H3993E4&\3c&H306EBF&\shad0\fnArial\b1}Girl Meets Deer
+Dialogue: 0,0:02:23.43,0:02:25.72,Main,,0000,0000,0000,,It's still so cold.
+Dialogue: 0,0:02:25.85,0:02:27.81,Main,,0000,0000,0000,,It rained yesterday, too.
+Dialogue: 0,0:02:31.40,0:02:34.48,Main,,0000,0000,0000,,Be careful, it's slippery. Are you okay?
+Dialogue: 0,0:02:37.07,0:02:40.28,Main,,0000,0000,0000,,Th-Thank you very much!
+Dialogue: 0,0:02:40.86,0:02:42.20,Main,,0000,0000,0000,,You're welcome.
+Dialogue: 0,0:02:45.74,0:02:49.46,Main,,0000,0000,0000,,{\i1}Koshi Torako, a second-year student\Nat Metropolitan Hinominami High,{\i}
+Dialogue: 0,0:02:49.58,0:02:52.71,Main,,0000,0000,0000,,{\i1}president of the student council\Nas well as Class 2-B's student rep.{\i}
+Dialogue: 0,0:02:52.83,0:02:57.38,Main,,0000,0000,0000,,{\i1}She's attractive, smart,\Nand good at sports.{\i}
+Dialogue: 0,0:02:57.51,0:03:01.43,Main,,0000,0000,0000,,{\i1}She's revered as the perfect girl at both school and around town.{\i}
+Dialogue: 0,0:03:01.55,0:03:02.89,Main,,0000,0000,0000,,She's wonderful!
+Dialogue: 0,0:03:06.81,0:03:08.06,Main,,0000,0000,0000,,{\i1}Just as I planned.{\i}
+Dialogue: 0,0:03:08.68,0:03:12.31,Main,,0000,0000,0000,,{\i1}But Koshi Torako, whose high school life\Nseems to be going so well,{\i}
+Dialogue: 0,0:03:12.44,0:03:15.40,Main,,0000,0000,0000,,{\i1}has a secret she can't\N tell anyone. And it's that... {\i}
+Dialogue: 0,0:03:16.02,0:03:17.36,Main,,0000,0000,0000,,{\i1}She's a former delinquent!{\i}
+Dialogue: 0,0:03:17.48,0:03:21.53,Main,,0000,0000,0000,,I'm the one they call\Nthe Wild Beast of Tokyo's Hino City!
+Dialogue: 0,0:03:21.66,0:03:24.99,Main,,0000,0000,0000,,{\i1}My dark past of being a delinquent,\Ninfluenced by shonen manga.{\i}
+Dialogue: 0,0:03:25.83,0:03:26.91,Main,,0000,0000,0000,,{\i1}If I get caught,{\i}
+Dialogue: 0,0:03:27.04,0:03:30.50,Main,,0000,0000,0000,,{\i1}all the effort I put into my high\Nschool debut being an honor student{\i}
+Dialogue: 0,0:03:30.62,0:03:32.29,Main,,0000,0000,0000,,{\i1}will go down the drain!{\i}
+Dialogue: 0,0:03:32.42,0:03:36.25,Main,,0000,0000,0000,,{\i1}Not that anyone could ever see\Nthrough my perfect disguise, though.{\i}
+Dialogue: 0,0:03:36.92,0:03:40.84,Main,,0000,0000,0000,,{\i1}That's what she thought.\NUntil today, anyway.{\i}
+Dialogue: 0,0:03:50.35,0:03:53.27,Main,,0000,0000,0000,,Are you kidding me?\NA suicide by hanging in episode one?!
+Dialogue: 0,0:03:53.40,0:03:55.23,Main,,0000,0000,0000,,I'm glad we're a late-night anime!
+Dialogue: 0,0:03:55.36,0:03:56.98,Main,,0000,0000,0000,,Not that it makes this any better!
+Dialogue: 0,0:03:57.11,0:03:58.65,Main,,0000,0000,0000,,Should I call the police? A doctor?
+Dialogue: 0,0:03:58.78,0:04:03.91,Main,,0000,0000,0000,,Detective Conan? No... Hajime-chan!
+Dialogue: 0,0:04:08.12,0:04:09.62,Main,,0000,0000,0000,,She's alive?
+Dialogue: 0,0:04:10.25,0:04:14.04,Main,,0000,0000,0000,,What? If it's not suicide,\Nwhy is she hanging from a place like that?
+Dialogue: 0,0:04:14.79,0:04:16.00,Main,,0000,0000,0000,,She has antlers?
+Dialogue: 0,0:04:16.13,0:04:20.09,Main,,0000,0000,0000,,Must be those things they sell at that\NMouse-land place in Tokyo... I mean Chiba!
+Dialogue: 0,0:04:20.21,0:04:22.47,Main,,0000,0000,0000,,But those would come right off, right?
+Dialogue: 0,0:04:22.59,0:04:25.01,Main,,0000,0000,0000,,Which means those are real antlers?
+Dialogue: 0,0:04:25.14,0:04:27.76,Main,,0000,0000,0000,,Deer antlers, by the looks of it.
+Dialogue: 0,0:04:27.89,0:04:29.68,Main,,0000,0000,0000,,Is she supposed to be a deer?!
+Dialogue: 0,0:04:29.81,0:04:33.48,Main,,0000,0000,0000,,Even if she is, aren't male deer \Nthe only ones that grow antlers?
+Dialogue: 0,0:04:29.81,0:04:33.50,Signs,,0000,0000,0000,,{\pos(332,12)}Male
+Dialogue: 0,0:04:29.81,0:04:33.50,Signs,,0000,0000,0000,,{\pos(542,118)}Female
+Dialogue: 0,0:04:33.50,0:04:35.17,Signs,,0000,0000,0000,,UMA Deer Woman
+Dialogue: 0,0:04:33.60,0:04:35.10,Main,,0000,0000,0000,,Is she some kind of new UMA?
+Dialogue: 0,0:04:35.17,0:04:37.54,Signs,,0000,0000,0000,,The Mysterious Deer Woman
+Dialogue: 0,0:04:35.23,0:04:37.44,Main,,0000,0000,0000,,Or a monster from an evil organization?
+Dialogue: 0,0:04:37.56,0:04:40.11,Main,,0000,0000,0000,,{\i1}Either way, that's an\Nincredible amount of snot.{\i}
+Dialogue: 0,0:04:40.23,0:04:41.57,Main,,0000,0000,0000,,{\i1}Current temperature is 12°C.{\i}
+Dialogue: 0,0:04:42.32,0:04:43.57,Main,,0000,0000,0000,,Gross!
+Dialogue: 0,0:04:43.70,0:04:48.41,Main,,0000,0000,0000,,And now, animals have started to gather,\Nthinking she's carrion!
+Dialogue: 0,0:04:49.87,0:04:50.74,Main,,0000,0000,0000,,You want a piece of me?
+Dialogue: 0,0:04:50.87,0:04:55.46,Main - Top,,0000,0000,0000,,You wanna piece of me, huh? Come at me!
+Dialogue: 0,0:04:53.16,0:04:55.46,Main,,0000,0000,0000,,{\i1}Why is she trying to pick a fight\Nin this situation?{\i}
+Dialogue: 0,0:04:55.58,0:04:57.75,Main,,0000,0000,0000,,{\i1}Should I help her?{\i}
+Dialogue: 0,0:05:03.51,0:05:05.63,Main,,0000,0000,0000,,{\i1}She's staring hard at me!{\i}
+Dialogue: 0,0:05:05.76,0:05:07.55,Main,,0000,0000,0000,,{\i1}The intensity of her gaze!{\i}
+Dialogue: 0,0:05:07.68,0:05:10.10,Main,,0000,0000,0000,,{\i1}If I get caught up in this, I'll be late!{\i}
+Dialogue: 0,0:05:10.22,0:05:13.39,Main,,0000,0000,0000,,{\i1}Honor students cannot be late!{\i}
+Dialogue: 0,0:05:13.52,0:05:15.89,Main,,0000,0000,0000,,{\i1}I'll have to pretend I didn't see her{\i}
+Dialogue: 0,0:05:16.52,0:05:18.15,Main,,0000,0000,0000,,{\i1}and hurry to school.{\i}
+Dialogue: 0,0:05:18.27,0:05:19.65,Main,,0000,0000,0000,,You're going to leave me here?
+Dialogue: 0,0:05:19.77,0:05:22.86,Main,,0000,0000,0000,,After seeing me like this,\Nyou're still leaving me here?
+Dialogue: 0,0:05:23.49,0:05:25.90,Main,,0000,0000,0000,,M-Me? Of course not!
+Dialogue: 0,0:05:26.03,0:05:29.70,Main,,0000,0000,0000,,Not to mention, you just\Nsomehow ended up there, right?
+Dialogue: 0,0:05:29.82,0:05:33.28,Main,,0000,0000,0000,,I'm running late.\NI don't really have time to play.
+Dialogue: 0,0:05:33.28,0:05:34.25,Main,,0000,0000,0000,,Tomorrow, the news will say,
+Dialogue: 0,0:05:34.37,0:05:38.12,Main,,0000,0000,0000,,"A high schooler from Hino\Ngot caught in power lines and died."
+Dialogue: 0,0:05:40.00,0:05:42.34,Main,,0000,0000,0000,,From now on, you'll remember my face
+Dialogue: 0,0:05:42.46,0:05:44.51,Main,,0000,0000,0000,,when you go down\Nthis street every morning.
+Dialogue: 0,0:05:46.01,0:05:51.14,Main,,0000,0000,0000,,You'll regret this every day, thinking,\N"I should've helped her that day."
+Dialogue: 0,0:05:53.43,0:05:55.85,Main,,0000,0000,0000,,Okay! Fine!
+Dialogue: 0,0:05:57.27,0:05:58.69,Main,,0000,0000,0000,,I'm alive!
+Dialogue: 0,0:05:58.81,0:06:00.77,Main,,0000,0000,0000,,{\i1}This girl is freakin' heavy!{\i}
+Dialogue: 0,0:06:01.40,0:06:02.36,Main,,0000,0000,0000,,You bastard—
+Dialogue: 0,0:06:03.78,0:06:06.11,Main,,0000,0000,0000,,Miss, what were you doing up there?
+Dialogue: 0,0:06:06.24,0:06:09.74,Main,,0000,0000,0000,,I woke up this morning and there I was.\NI wonder why.
+Dialogue: 0,0:06:09.87,0:06:11.03,Main,,0000,0000,0000,,Seriously, tell me why!
+Dialogue: 0,0:06:11.16,0:06:13.99,Main,,0000,0000,0000,,Thank you so much for helping me,
+Dialogue: 0,0:06:14.12,0:06:15.41,Main,,0000,0000,0000,,Miss Delinquent.
+Dialogue: 0,0:06:16.71,0:06:18.62,Main,,0000,0000,0000,,Don't mention it.
+Dialogue: 0,0:06:18.75,0:06:20.33,Main,,0000,0000,0000,,"Miss Delinquent"?
+Dialogue: 0,0:06:20.96,0:06:23.42,Main,,0000,0000,0000,,Huh?! Who do you think you're talking to?!
+Dialogue: 0,0:06:23.55,0:06:24.59,Main,,0000,0000,0000,,You, Miss!
+Dialogue: 0,0:06:25.46,0:06:26.67,Main,,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:06:26.80,0:06:30.76,Main,,0000,0000,0000,,Me? With this beautiful\Nand composed womanly appearance?
+Dialogue: 0,0:06:30.89,0:06:34.56,Main,,0000,0000,0000,,A delinquent? Th-That's not possible!
+Dialogue: 0,0:06:34.68,0:06:36.31,Main,,0000,0000,0000,,Really?
+Dialogue: 0,0:06:38.31,0:06:39.94,Main,,0000,0000,0000,,But you smell like one.
+Dialogue: 0,0:06:40.06,0:06:41.10,Main,,0000,0000,0000,,Smell like what?
+Dialogue: 0,0:06:41.23,0:06:43.06,Main,,0000,0000,0000,,My antlers are reacting, too.
+Dialogue: 0,0:06:45.44,0:06:47.32,Main,,0000,0000,0000,,What kind of sensor is that?
+Dialogue: 0,0:06:47.94,0:06:50.07,Main,,0000,0000,0000,,{\i1}I have to get away from this girl.{\i}
+Dialogue: 0,0:06:50.20,0:06:54.03,Main,,0000,0000,0000,,I-It must be your imagination.\NYou may be mistaking me for someone else.
+Dialogue: 0,0:06:54.16,0:06:59.33,Main,,0000,0000,0000,,I'd better get going.\NTry not to get stuck again, okay?
+Dialogue: 0,0:06:59.46,0:07:00.79,Main,,0000,0000,0000,,{\i1}That was close.{\i}
+Dialogue: 0,0:07:01.33,0:07:03.59,Main,,0000,0000,0000,,{\i1}I thought my disguise was perfect.{\i}
+Dialogue: 0,0:07:03.71,0:07:05.59,Main,,0000,0000,0000,,{\i1}How did she...?{\i}
+Dialogue: 0,0:07:10.97,0:07:12.68,Main,,0000,0000,0000,,{\i1}Who the hell was that girl?{\i}
+Dialogue: 0,0:07:12.80,0:07:14.35,Main,,0000,0000,0000,,Be seated, everyone.
+Dialogue: 0,0:07:16.22,0:07:19.48,Main,,0000,0000,0000,,I'd like to introduce\Na transfer student today.
+Dialogue: 0,0:07:21.23,0:07:24.61,Main,,0000,0000,0000,,{\i1}A transfer student?\NI have a bad feeling about this.{\i}
+Dialogue: 0,0:07:25.36,0:07:26.57,Main,,0000,0000,0000,,Come on in.
+Dialogue: 0,0:07:26.69,0:07:27.61,Main,,0000,0000,0000,,Coming!
+Dialogue: 0,0:07:30.74,0:07:32.61,Main,,0000,0000,0000,,{\i1}I knew it!{\i}
+Dialogue: 0,0:07:34.12,0:07:35.04,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:35.28,0:07:38.12,Main,,0000,0000,0000,,Wh-Why are you stuck again already?\NLearn from your mistakes!
+Dialogue: 0,0:08:20.16,0:08:21.54,Main,,0000,0000,0000,,{\i1}You're kidding, right?!{\i}
+Dialogue: 0,0:08:22.16,0:08:24.54,Main,,0000,0000,0000,,Please introduce yourself, Shikanoko-san.
+Dialogue: 0,0:08:24.67,0:08:28.29,Main,,0000,0000,0000,,Notsu! I'm Shikanoko Noko. Call me Nokotan!
+Dialogue: 0,0:08:28.42,0:08:30.55,Main,,0000,0000,0000,,Nokotan!
+Dialogue: 0,0:08:31.72,0:08:33.26,Main,,0000,0000,0000,,What a funny girl.
+Dialogue: 0,0:08:33.38,0:08:34.30,Main,,0000,0000,0000,,What a deer.
+Dialogue: 0,0:08:35.51,0:08:38.43,Main,,0000,0000,0000,,{\i1}Why is everyone welcoming her like that?\NAm I the weird one here?{\i}
+Dialogue: 0,0:08:38.56,0:08:42.31,Main,,0000,0000,0000,,As for your seat...\NThe desk next to Koshi-san is open!
+Dialogue: 0,0:08:43.73,0:08:47.06,Main,,0000,0000,0000,,{\i1}A common trope in school anime,\Nthe conveniently-empty seat.{\i}
+Dialogue: 0,0:08:47.69,0:08:49.94,Main,,0000,0000,0000,,{\i1}This is bad. If she says something weird{\i}
+Dialogue: 0,0:08:50.07,0:08:52.82,Main,,0000,0000,0000,,{\i1}my high school life will be over!{\i}
+Dialogue: 0,0:08:53.45,0:08:55.24,Main,,0000,0000,0000,,{\i1}I have to make the first move.{\i}
+Dialogue: 0,0:08:55.36,0:08:56.91,Main,,0000,0000,0000,,Good morning!
+Dialogue: 0,0:08:57.03,0:08:58.32,Main,,0000,0000,0000,,Hey, I saw you this morning.
+Dialogue: 0,0:08:58.45,0:09:00.45,Main,,0000,0000,0000,,So you're a transfer student?
+Dialogue: 0,0:09:01.08,0:09:05.08,Main,,0000,0000,0000,,I'm Koshi Torako. If you have\Nany questions, feel free to ask.
+Dialogue: 0,0:09:05.21,0:09:06.33,Main,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:09:07.08,0:09:10.00,Main,,0000,0000,0000,,{\i1}Wait, maybe this will be okay after all.{\i}
+Dialogue: 0,0:09:10.13,0:09:13.01,Main,,0000,0000,0000,,{\i1}I guess I didn't need to worry so much.{\i}
+Dialogue: 0,0:09:13.55,0:09:16.09,Main,,0000,0000,0000,,You can call me whatever you like.
+Dialogue: 0,0:09:16.22,0:09:17.34,Main,,0000,0000,0000,,Whatever I like?
+Dialogue: 0,0:09:17.47,0:09:19.47,Main,,0000,0000,0000,,{\i1}I was just overthinking things.{\i}
+Dialogue: 0,0:09:19.60,0:09:20.45,Main,,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:20.92,0:09:22.35,Main,,0000,0000,0000,,Miss Delinquent!
+Dialogue: 0,0:09:22.47,0:09:27.10,Main,,0000,0000,0000,,{\i1}Miss Delinquent...{\i}
+Dialogue: 0,0:09:48.22,0:09:48.91,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:49.46,0:09:52.25,Main,,0000,0000,0000,,Let's be friends, Miss Delinquent!
+Dialogue: 0,0:09:52.38,0:09:54.01,Main,,0000,0000,0000,,Koshi-san is a delinquent?
+Dialogue: 0,0:09:54.13,0:09:55.80,Main,,0000,0000,0000,,Koshi-san, of all people?!
+Dialogue: 0,0:09:55.92,0:09:56.88,Main,,0000,0000,0000,,There must be a mistake!
+Dialogue: 0,0:09:57.68,0:10:02.64,Main,,0000,0000,0000,,{\i1}Hello?! A deer just joined our class\Nand you're choosing to focus on this?!{\i}
+Dialogue: 0,0:10:02.76,0:10:05.68,Main,,0000,0000,0000,,W-Wait, a delinquent?\NWhat are you talking about?
+Dialogue: 0,0:10:05.81,0:10:07.27,Main,,0000,0000,0000,,Please don't make false allegations.
+Dialogue: 0,0:10:07.89,0:10:10.98,Main,,0000,0000,0000,,My primal instincts are telling me\Nyou're a delinquent.
+Dialogue: 0,0:10:11.11,0:10:12.73,Main,,0000,0000,0000,,Are you a wild animal?!
+Dialogue: 0,0:10:13.36,0:10:15.74,Main,,0000,0000,0000,,Also, you're a virgin.
+Dialogue: 0,0:10:18.61,0:10:20.37,Main,,0000,0000,0000,,My antlers are reacting, too.
+Dialogue: 0,0:10:20.49,0:10:22.49,Main,,0000,0000,0000,,What kind of system is that anyway?!
+Dialogue: 0,0:10:22.62,0:10:24.12,Main,,0000,0000,0000,,Koshi-san's a virgin?
+Dialogue: 0,0:10:24.24,0:10:26.20,Main,,0000,0000,0000,,I knew it!
+Dialogue: 0,0:10:26.33,0:10:27.12,Main,,0000,0000,0000,,Really?
+Dialogue: 0,0:10:27.25,0:10:29.62,Main,,0000,0000,0000,,{\i1}Stay out of this, you extras!{\i}
+Dialogue: 0,0:10:30.25,0:10:33.50,Main,,0000,0000,0000,,Wh-What proof do you have\Nthat I'm a virgin?
+Dialogue: 0,0:10:33.63,0:10:36.38,Main,,0000,0000,0000,,What? So you're not a virgin?
+Dialogue: 0,0:10:45.64,0:10:48.39,Main,,0000,0000,0000,,Well... that's...
+Dialogue: 0,0:10:48.52,0:10:50.44,Main,,0000,0000,0000,,{\i1}Virginity confirmed.{\i}
+Dialogue: 0,0:10:49.71,0:10:51.46,Signs,,0000,0000,0000,,{\c&H1507D1&}VIRGIN
+Dialogue: 0,0:10:51.48,0:10:54.86,Signs,,0000,0000,0000,,NARA PARK\NTODAI-JI
+Dialogue: 0,0:10:54.98,0:10:58.36,Signs,,0000,0000,0000,,NARA PARK\NKOFUKU-JI
+Dialogue: 0,0:11:01.28,0:11:02.66,Main,,0000,0000,0000,,It's Koshi-san!
+Dialogue: 0,0:11:02.78,0:11:04.37,Main,,0000,0000,0000,,She looks beautiful as always!
+Dialogue: 0,0:11:07.50,0:11:10.67,Main,,0000,0000,0000,,{\i1}My disgraceful past was\Njust about to come to light,{\i}
+Dialogue: 0,0:11:10.79,0:11:12.67,Main,,0000,0000,0000,,{\i1}but it looks like I'm safe for now.{\i}
+Dialogue: 0,0:11:12.79,0:11:14.59,Main,,0000,0000,0000,,{\i1}Though I can't let my guard down!{\i}
+Dialogue: 0,0:11:14.71,0:11:20.05,Main,,0000,0000,0000,,{\i1}I have to make sure that deer\Nwon't expose me as a former delinquent!{\i}
+Dialogue: 0,0:11:20.17,0:11:21.43,Main,,0000,0000,0000,,{\i1}To accomplish that,{\i}
+Dialogue: 0,0:11:22.05,0:11:24.43,Main,,0000,0000,0000,,{\i1}I must make my move\Nbefore she opens her mouth again.{\i}
+Dialogue: 0,0:11:28.31,0:11:31.56,Main,,0000,0000,0000,,{\i1}Who put this mountain of snacks here?{\i}
+Dialogue: 0,0:11:32.44,0:11:35.90,Main,,0000,0000,0000,,Wait a minute... The way they're wrapped...\NThese are deer crackers!
+Dialogue: 0,0:11:36.02,0:11:37.48,Main,,0000,0000,0000,,{\i1}"Deer crackers."{\i}
+Dialogue: 0,0:11:37.61,0:11:39.82,Main,,0000,0000,0000,,{\i1}The soul food of Nara Prefecture.{\i}
+Dialogue: 0,0:11:39.94,0:11:41.65,Main,,0000,0000,0000,,{\i1}(Opinions may vary.){\i}
+Dialogue: 0,0:11:41.78,0:11:44.87,Main,,0000,0000,0000,,{\i1}Students on their graduation trips\Noften eat them for laughs,{\i}
+Dialogue: 0,0:11:44.99,0:11:50.08,Main,,0000,0000,0000,,{\i1}but much like their taste, the joke\Nis a bit bland, and usually falls flat.{\i}
+Dialogue: 0,0:11:50.21,0:11:52.37,Main,,0000,0000,0000,,{\i1}Who would do this?{\i}
+Dialogue: 0,0:12:04.84,0:12:06.93,Main,,0000,0000,0000,,{\i1}It was her for sure!{\i}
+Dialogue: 0,0:12:07.06,0:12:09.97,Main,,0000,0000,0000,,{\i1}Is that drool? What is she, a Merlion?{\i}
+Dialogue: 0,0:12:10.10,0:12:13.35,Main,,0000,0000,0000,,Excuse me, Shikanoko-san. What is this?
+Dialogue: 0,0:12:14.65,0:12:15.98,Main,,0000,0000,0000,,I'm returning the favor.
+Dialogue: 0,0:12:16.11,0:12:17.61,Main,,0000,0000,0000,,That's not what your face says.
+Dialogue: 0,0:12:17.73,0:12:22.40,Main,,0000,0000,0000,,You... whoopsies. \NYou saved me this morning, right?
+Dialogue: 0,0:12:22.53,0:12:23.61,Main,,0000,0000,0000,,That's to say thanks.
+Dialogue: 0,0:12:25.37,0:12:28.08,Main,,0000,0000,0000,,That was no big deal.\NI don't need repayment.
+Dialogue: 0,0:12:28.64,0:12:31.08,Main,,0000,0000,0000,,What? Not satisfied with deer crackers?
+Dialogue: 0,0:12:31.62,0:12:33.46,Main,,0000,0000,0000,,That's not the problem.
+Dialogue: 0,0:12:34.08,0:12:36.33,Main,,0000,0000,0000,,Besides, why are you\Nsuddenly being condescending?
+Dialogue: 0,0:12:36.46,0:12:38.96,Main,,0000,0000,0000,,How about I give you an antler then?
+Dialogue: 0,0:12:39.09,0:12:40.30,Main,,0000,0000,0000,,They come off?
+Dialogue: 0,0:12:40.42,0:12:41.21,Main,,0000,0000,0000,,Here.
+Dialogue: 0,0:12:41.34,0:12:42.97,Main,,0000,0000,0000,,{\i1}I don't want that!{\i}
+Dialogue: 0,0:12:43.09,0:12:45.05,Main,,0000,0000,0000,,You can even eat them.
+Dialogue: 0,0:12:47.85,0:12:51.10,Main,,0000,0000,0000,,D-Does it have a taste?\NNot that I'm going to try it...
+Dialogue: 0,0:12:51.22,0:12:53.48,Main,,0000,0000,0000,,No taste, no smell, super hard.
+Dialogue: 0,0:12:53.60,0:12:55.65,Main,,0000,0000,0000,,But you eat it anyway?!
+Dialogue: 0,0:12:56.19,0:12:59.36,Main,,0000,0000,0000,,If that's not enough... This is just for you.
+Dialogue: 0,0:12:59.48,0:13:00.69,Main,,0000,0000,0000,,I said I don't want it!
+Dialogue: 0,0:13:00.82,0:13:03.32,Main,,0000,0000,0000,,Maybe I'm not in the position to say this,
+Dialogue: 0,0:13:03.44,0:13:05.95,Main,,0000,0000,0000,,but you're ruining your own identity!
+Dialogue: 0,0:13:06.07,0:13:09.87,Main,,0000,0000,0000,,Without your antlers,\Nyou're just a regular high school girl!
+Dialogue: 0,0:13:09.99,0:13:11.66,Main,,0000,0000,0000,,For the one who saved my life,
+Dialogue: 0,0:13:11.79,0:13:14.46,Main,,0000,0000,0000,,I'm willing to\Nput my character on the line!
+Dialogue: 0,0:13:14.58,0:13:16.79,Main,,0000,0000,0000,,Calm down!\NIt's too early to abandon your character!
+Dialogue: 0,0:13:16.92,0:13:18.50,Main,,0000,0000,0000,,{\i1}It's still the first episode.{\i}
+Dialogue: 0,0:13:18.63,0:13:21.34,Main,,0000,0000,0000,,You don't want my crackers or my antlers.
+Dialogue: 0,0:13:22.96,0:13:24.09,Main,,0000,0000,0000,,{\i1}They just stick back on?{\i}
+Dialogue: 0,0:13:24.72,0:13:27.34,Main,,0000,0000,0000,,Could it be?! What you're after is...
+Dialogue: 0,0:13:27.47,0:13:28.76,Main,,0000,0000,0000,,Me?!
+Dialogue: 0,0:13:28.74,0:13:30.08,Signs,,0000,0000,0000,,Me = Venison
+Dialogue: 0,0:13:30.10,0:13:32.22,Main,,0000,0000,0000,,Why do you assume\NI want deer-related things?!
+Dialogue: 0,0:13:32.35,0:13:34.56,Main,,0000,0000,0000,,Fine! Just eat me!
+Dialogue: 0,0:13:34.68,0:13:37.23,Main,,0000,0000,0000,,I'm not gonna eat you!\NAnd who are those guys?
+Dialogue: 0,0:13:37.35,0:13:40.36,Main,,0000,0000,0000,,I don't have anything else to give you!
+Dialogue: 0,0:13:40.98,0:13:43.69,Main,,0000,0000,0000,,Look. As you can see,\NI don't have any money.
+Dialogue: 0,0:13:43.82,0:13:45.61,Main,,0000,0000,0000,,You have more crackers?
+Dialogue: 0,0:13:46.99,0:13:49.99,Main,,0000,0000,0000,,Please. I have nothing left to give.
+Dialogue: 0,0:13:50.12,0:13:52.99,Main,,0000,0000,0000,,Why are you acting like\NI'm extorting you?!
+Dialogue: 0,0:13:53.12,0:13:54.75,Main,,0000,0000,0000,,And for crackers?
+Dialogue: 0,0:13:55.91,0:13:58.00,Main,,0000,0000,0000,,{\i1}Crap, I let my true self show.{\i}
+Dialogue: 0,0:13:58.75,0:14:01.50,Main,,0000,0000,0000,,Hey Nokotan,\Nare you and Koshi-san friends?
+Dialogue: 0,0:14:01.63,0:14:03.63,Main,,0000,0000,0000,,You sure look like it!
+Dialogue: 0,0:14:04.96,0:14:07.05,Main,,0000,0000,0000,,Huh? "Nokotan"?
+Dialogue: 0,0:14:09.05,0:14:11.72,Main,,0000,0000,0000,,That's my nickname! Cute, isn't it?
+Dialogue: 0,0:14:11.85,0:14:13.43,Main,,0000,0000,0000,,{\i1}Wow, you're annoying.{\i}
+Dialogue: 0,0:14:13.56,0:14:16.60,Main,,0000,0000,0000,,You see, I was stuck on a utility pole\Nthis morning, and Miss Delin—
+Dialogue: 0,0:14:16.73,0:14:19.73,Main,,0000,0000,0000,,Shikanoko-san!\NI remembered the teacher called for you!
+Dialogue: 0,0:14:19.85,0:14:21.73,Signs,,0000,0000,0000,,NO RUNNING IN THE HALLWAY
+Dialogue: 0,0:14:22.94,0:14:26.74,Main,,0000,0000,0000,,Oh, my. Koshitan, what are you thinking?\NBringing me to a place like this...
+Dialogue: 0,0:14:26.86,0:14:27.65,Signs,,0000,0000,0000,,UNDER MAINTENANCE\NSTUDENT COUNCIL
+Dialogue: 0,0:14:28.28,0:14:29.36,Main,,0000,0000,0000,,How bold of you.
+Dialogue: 0,0:14:30.11,0:14:31.82,Main,,0000,0000,0000,,What are you imagining?!
+Dialogue: 0,0:14:32.01,0:14:35.87,Main,,0000,0000,0000,,Oh? That's what I should be asking you.
+Dialogue: 0,0:14:37.16,0:14:40.42,Main,,0000,0000,0000,,What? I-I'm not...
+Dialogue: 0,0:14:41.04,0:14:42.00,Main,,0000,0000,0000,,Koshitan...
+Dialogue: 0,0:14:43.09,0:14:43.92,Main,,0000,0000,0000,,Such a virgin.
+Dialogue: 0,0:14:44.05,0:14:45.05,Main,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:45.17,0:14:47.88,Main,,0000,0000,0000,,And why are you calling me Koshitan?
+Dialogue: 0,0:14:48.01,0:14:49.13,Main,,0000,0000,0000,,It's your nickname.
+Dialogue: 0,0:14:49.26,0:14:51.84,Main,,0000,0000,0000,,We're Nokotan and Koshitan. Nice, right?
+Dialogue: 0,0:14:51.97,0:14:53.76,Main,,0000,0000,0000,,Are we some kind of comedy duo?
+Dialogue: 0,0:14:53.89,0:14:56.27,Main,,0000,0000,0000,,Who said you could give me a nickname?
+Dialogue: 0,0:14:56.39,0:14:57.93,Main,,0000,0000,0000,,Then we'll go with Miss Delinq—
+Dialogue: 0,0:14:58.06,0:14:58.98,Main,,0000,0000,0000,,Koshitan is fine.
+Dialogue: 0,0:14:59.10,0:15:00.44,Main,,0000,0000,0000,,{\i1}It was fine after all.{\i}
+Dialogue: 0,0:15:02.65,0:15:05.32,Main,,0000,0000,0000,,That doesn't matter anyway.
+Dialogue: 0,0:15:05.94,0:15:07.57,Main,,0000,0000,0000,,Now, about my true identity.
+Dialogue: 0,0:15:07.69,0:15:10.66,Main,,0000,0000,0000,,Do you promise\Nyou'll never tell anyone, ever?
+Dialogue: 0,0:15:12.03,0:15:15.24,Main,,0000,0000,0000,,I happen to be an honor\Nstudent at this school
+Dialogue: 0,0:15:15.37,0:15:17.87,Main,,0000,0000,0000,,and it'd be troublesome\Nif anyone found out.
+Dialogue: 0,0:15:21.42,0:15:24.38,Main,,0000,0000,0000,,If you say anything,\Nit won't end well for you.
+Dialogue: 0,0:15:24.92,0:15:26.55,Main,,0000,0000,0000,,Got it?
+Dialogue: 0,0:15:26.67,0:15:28.30,Signs,,0000,0000,0000,,UNDER MAINTENANCE\NSTUDENT COUNCIL
+Dialogue: 0,0:15:28.42,0:15:30.05,Main,,0000,0000,0000,,Your true identity...
+Dialogue: 0,0:15:30.68,0:15:33.09,Main,,0000,0000,0000,,Does that mean that you're actually a virgin?
+Dialogue: 0,0:15:33.22,0:15:36.06,Main,,0000,0000,0000,,You're... not wrong, but no!
+Dialogue: 0,0:15:36.18,0:15:39.93,Main,,0000,0000,0000,,Damn it... Where do you\Nget off teasing me like that?
+Dialogue: 0,0:15:40.06,0:15:42.56,Main,,0000,0000,0000,,Listen up! Those antlers\Nbetter be your only joke!
+Dialogue: 0,0:15:46.44,0:15:50.19,Main,,0000,0000,0000,,You're right...\NThese antlers are kinda weird.
+Dialogue: 0,0:15:50.32,0:15:52.11,Signs,,0000,0000,0000,,SHE'S INDOORS
+Dialogue: 0,0:15:52.24,0:15:54.32,Main,,0000,0000,0000,,Well... no...
+Dialogue: 0,0:15:54.95,0:15:59.29,Main,,0000,0000,0000,,A girl with antlers is totally gross.
+Dialogue: 0,0:15:59.41,0:16:02.62,Main,,0000,0000,0000,,What even is a deer, anyway?
+Dialogue: 0,0:16:02.75,0:16:04.58,Main,,0000,0000,0000,,I'm sorry if I made you uncomfortable.
+Dialogue: 0,0:16:04.71,0:16:06.17,Main,,0000,0000,0000,,{\i1}I see...{\i}
+Dialogue: 0,0:16:06.29,0:16:09.59,Main,,0000,0000,0000,,{\i1}She's lived through years\Nof people talking about her appearance.{\i}
+Dialogue: 0,0:16:09.71,0:16:11.26,Main,,0000,0000,0000,,{\i1}And yet I...{\i}
+Dialogue: 0,0:16:11.80,0:16:16.10,Main,,0000,0000,0000,,{\i1}Forget being an honor student.\NI've failed at being a human!{\i}
+Dialogue: 0,0:16:16.72,0:16:19.47,Main,,0000,0000,0000,,I... I'm sorry!\NI don't care about your antlers!
+Dialogue: 0,0:16:21.52,0:16:23.10,Main,,0000,0000,0000,,How about this?
+Dialogue: 0,0:16:24.23,0:16:25.81,Main,,0000,0000,0000,,{\i1}Koshitan, frozen with fear,{\i}
+Dialogue: 0,0:16:25.94,0:16:28.61,Main,,0000,0000,0000,,{\i1}was unable to ask where the horns started.{\i}
+Dialogue: 0,0:16:32.07,0:16:34.28,Main,,0000,0000,0000,,{\i1}Today was exhausting.{\i}
+Dialogue: 0,0:16:34.41,0:16:37.24,Main,,0000,0000,0000,,{\i1}I still have to study for tomorrow.{\i}
+Dialogue: 0,0:16:37.37,0:16:38.24,Signs,,0000,0000,0000,,{\c&H7EFDFA&\3c&H000000&}CREAK! CRASH!
+Dialogue: 0,0:16:39.29,0:16:40.24,Main,,0000,0000,0000,,What was that?
+Dialogue: 0,0:16:41.20,0:16:42.25,Main,,0000,0000,0000,,From over there?
+Dialogue: 0,0:16:44.58,0:16:47.71,Main,,0000,0000,0000,,Excuse me! Is anyone in there?
+Dialogue: 0,0:16:47.84,0:16:49.75,Main,,0000,0000,0000,,I just heard a loud noise and...
+Dialogue: 0,0:16:50.88,0:16:51.76,Signs,,0000,0000,0000,,{\c&H322AD2&}DEER
+Dialogue: 0,0:16:56.14,0:16:58.01,Main,,0000,0000,0000,,Do I call the police?! A doctor?!
+Dialogue: 0,0:16:58.14,0:17:01.22,Main,,0000,0000,0000,,Detective Conan? Er, no... Hajime-chan!
+Dialogue: 0,0:17:01.35,0:17:02.52,Main,,0000,0000,0000,,Hey, Koshitan!
+Dialogue: 0,0:17:03.98,0:17:09.02,Main,,0000,0000,0000,,Shikanoko-san, is that blood?\NDid something happen?
+Dialogue: 0,0:17:09.65,0:17:11.53,Main,,0000,0000,0000,,Oops, my bad.
+Dialogue: 0,0:17:11.65,0:17:14.11,Main,,0000,0000,0000,,I fell from the ladder\Nand scraped my knee!
+Dialogue: 0,0:17:28.13,0:17:31.00,Main,,0000,0000,0000,,What about your head?!
+Dialogue: 0,0:17:33.09,0:17:34.88,Main,,0000,0000,0000,,What a cute bandage.
+Dialogue: 0,0:17:35.01,0:17:36.01,Main,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:17:36.13,0:17:40.14,Main,,0000,0000,0000,,What are you doing in this\Nabandoned warehouse anyway?
+Dialogue: 0,0:17:41.06,0:17:42.27,Main,,0000,0000,0000,,I was cleaning.
+Dialogue: 0,0:17:42.39,0:17:44.14,Main,,0000,0000,0000,,Cleaning? All by yourself?
+Dialogue: 0,0:17:44.27,0:17:47.14,Main,,0000,0000,0000,,Yep! Thanks, Koshitan!
+Dialogue: 0,0:17:47.27,0:17:49.81,Main,,0000,0000,0000,,All right, back to work!
+Dialogue: 0,0:17:57.28,0:17:59.66,Main,,0000,0000,0000,,Fine. I'll help you.
+Dialogue: 0,0:18:00.28,0:18:01.41,Main,,0000,0000,0000,,What? You will?
+Dialogue: 0,0:18:01.53,0:18:03.20,Main,,0000,0000,0000,,Y-You're hurt.
+Dialogue: 0,0:18:03.33,0:18:06.41,Main,,0000,0000,0000,,Who knows what'll happen\Nif I leave you here?
+Dialogue: 0,0:18:06.54,0:18:08.79,Main,,0000,0000,0000,,Yay! Thanks!
+Dialogue: 0,0:18:08.92,0:18:11.29,Main,,0000,0000,0000,,{\i1}She is, without a doubt, a tsundere.{\i}
+Dialogue: 0,0:18:19.93,0:18:23.10,Main,,0000,0000,0000,,Cleaning is such a chore,\Nbut you seem to be having fun.
+Dialogue: 0,0:18:23.22,0:18:25.06,Main,,0000,0000,0000,,Because I'm with you, Koshitan!
+Dialogue: 0,0:18:25.16,0:18:29.15,Main,,0000,0000,0000,,Huh?! That's too much. We're just cleaning.
+Dialogue: 0,0:18:29.27,0:18:33.19,Main,,0000,0000,0000,,Even cleaning can be fun\Nwhen you do it with a friend.
+Dialogue: 0,0:18:35.82,0:18:38.57,Main,,0000,0000,0000,,It looks much cleaner already!
+Dialogue: 0,0:18:38.70,0:18:39.78,Main,,0000,0000,0000,,Ukai-sensei?
+Dialogue: 0,0:18:39.91,0:18:41.78,Main,,0000,0000,0000,,Sensei, notsu!
+Dialogue: 0,0:18:41.91,0:18:43.58,Main,,0000,0000,0000,,Hey there, notsu!
+Dialogue: 0,0:18:43.70,0:18:45.62,Main,,0000,0000,0000,,Did you help her, Koshi-san?
+Dialogue: 0,0:18:45.75,0:18:47.79,Main,,0000,0000,0000,,Thank you! It must've been hard.
+Dialogue: 0,0:18:47.91,0:18:50.63,Main,,0000,0000,0000,,Not at all! It was a piece of cake.
+Dialogue: 0,0:18:50.75,0:18:54.13,Main,,0000,0000,0000,,I'm so glad you'll be joining\Nthe Deer Club too, Koshi-san!
+Dialogue: 0,0:18:54.25,0:18:56.88,Main,,0000,0000,0000,,Of course— What now?
+Dialogue: 0,0:18:57.51,0:18:58.38,Main,,0000,0000,0000,,Deer Club?
+Dialogue: 0,0:18:58.51,0:19:02.05,Main,,0000,0000,0000,,Just as I promised,\Nfeel free to use this room as you like!
+Dialogue: 0,0:19:02.18,0:19:03.01,Main,,0000,0000,0000,,Hooray!
+Dialogue: 0,0:19:03.14,0:19:07.39,Main,,0000,0000,0000,,Wait! What in the world is the Deer Club?\NAnd who said I'd be joining?
+Dialogue: 0,0:19:07.52,0:19:09.56,Main,,0000,0000,0000,,What? You didn't hear about it?
+Dialogue: 0,0:19:09.69,0:19:12.02,Main,,0000,0000,0000,,I founded a Deer Club!
+Dialogue: 0,0:19:12.15,0:19:15.27,Main,,0000,0000,0000,,{\i1}What the hell kinda club is that?{\i}
+Dialogue: 0,0:19:15.40,0:19:20.15,Main,,0000,0000,0000,,I promised her that if she cleaned up\Nthis place, she could use it as a club room.
+Dialogue: 0,0:19:20.28,0:19:21.28,Main,,0000,0000,0000,,- Right?\N- Right?
+Dialogue: 0,0:19:21.91,0:19:23.78,Main,,0000,0000,0000,,{\i1}"Right," my butt!{\i}
+Dialogue: 0,0:19:23.91,0:19:28.04,Main,,0000,0000,0000,,{\i1}More importantly, I can't be seen\N in a crazy club like this!{\i}
+Dialogue: 0,0:19:28.66,0:19:29.96,Main,,0000,0000,0000,,I'm so relieved.
+Dialogue: 0,0:19:30.08,0:19:32.79,Main,,0000,0000,0000,,You're so responsible and caring, Koshi-san.
+Dialogue: 0,0:19:32.92,0:19:33.92,Main,,0000,0000,0000,,Like a reliable older sister!
+Dialogue: 0,0:19:35.04,0:19:38.63,Main,,0000,0000,0000,,You're so cheerful and kind,\Nso this is bound to be a fun club.
+Dialogue: 0,0:19:38.76,0:19:40.01,Main,,0000,0000,0000,,It'll be like home for us!
+Dialogue: 0,0:19:41.63,0:19:44.35,Main,,0000,0000,0000,,You're also very smart,\Nso you might win some kind of award!
+Dialogue: 0,0:19:44.47,0:19:46.06,Main,,0000,0000,0000,,We might even get to the nationals!
+Dialogue: 0,0:19:48.18,0:19:52.44,Main,,0000,0000,0000,,With you on board, I'm sure\Nthe Deer Club will do incredible things!
+Dialogue: 0,0:19:53.06,0:19:54.40,Main,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:19:54.52,0:19:56.32,Main,,0000,0000,0000,,{\i1}Koshitan is a pushover.{\i}
+Dialogue: 0,0:19:56.44,0:19:59.65,Main,,0000,0000,0000,,Okay, Shikanoko-san,\Nplease fill in the club approval form.
+Dialogue: 0,0:19:59.65,0:20:00.33,Main,,0000,0000,0000,,'Kay!
+Dialogue: 0,0:20:01.57,0:20:03.24,Main,,0000,0000,0000,,Club name, Deer Club.
+Dialogue: 0,0:20:03.36,0:20:05.12,Main,,0000,0000,0000,,Club president, Koshi Torako.
+Dialogue: 0,0:20:05.24,0:20:08.58,Main,,0000,0000,0000,,Activities, mainly taking care of deer.
+Dialogue: 0,0:20:08.70,0:20:12.08,Main,,0000,0000,0000,,Wait a minute!\NWhy am I the club president?
+Dialogue: 0,0:20:12.21,0:20:14.50,Main,,0000,0000,0000,,- You're the president, Koshitan.\N- You're the president, Koshi-san.
+Dialogue: 0,0:20:14.63,0:20:16.59,Main,,0000,0000,0000,,How am I the odd one out here?
+Dialogue: 0,0:20:16.71,0:20:18.42,Main,,0000,0000,0000,,It's the Deer Club, right?
+Dialogue: 0,0:20:18.55,0:20:22.05,Main,,0000,0000,0000,,There's a literal deer girl right here.\NWhy not make her president?
+Dialogue: 0,0:20:22.80,0:20:24.34,Main,,0000,0000,0000,,I see what you mean.
+Dialogue: 0,0:20:24.47,0:20:29.06,Main,,0000,0000,0000,,But here it says that\Nthe Deer Club mainly takes care of deer.
+Dialogue: 0,0:20:29.18,0:20:30.35,Main,,0000,0000,0000,,Huh? Yes, it does...
+Dialogue: 0,0:20:30.45,0:20:34.71,Signs,,0000,0000,0000,,Club member
+Dialogue: 0,0:20:30.98,0:20:34.02,Main,,0000,0000,0000,,I'll be the Deer Club's\Nresident deer, you see.
+Dialogue: 0,0:20:34.15,0:20:35.86,Main,,0000,0000,0000,,The Deer Club's resident deer?
+Dialogue: 0,0:20:34.71,0:20:35.98,Signs,,0000,0000,0000,,Deer
+Dialogue: 0,0:20:35.98,0:20:38.15,Main,,0000,0000,0000,,And the president cares for her!
+Dialogue: 0,0:20:38.27,0:20:39.28,Main,,0000,0000,0000,,That's you, Koshitan!
+Dialogue: 0,0:20:39.40,0:20:40.94,Main,,0000,0000,0000,,{\i1}I'm not on board with that.{\i}
+Dialogue: 0,0:20:41.07,0:20:44.41,Main,,0000,0000,0000,,{\i1}What kind of club takes care of deer?\NIs this an agricultural school?{\i}
+Dialogue: 0,0:20:45.03,0:20:47.28,Main,,0000,0000,0000,,Here. Submitted!
+Dialogue: 0,0:20:47.41,0:20:50.41,Main,,0000,0000,0000,,Okay! And submission accepted!
+Dialogue: 0,0:20:50.54,0:20:51.95,Main,,0000,0000,0000,,That easily?!
+Dialogue: 0,0:20:52.08,0:20:55.88,Main,,0000,0000,0000,,President, I'm counting on you\Nto look after Shikanoko-san.
+Dialogue: 0,0:20:56.00,0:20:57.38,Main,,0000,0000,0000,,I'll be in your care.
+Dialogue: 0,0:20:59.30,0:21:00.13,Main,,0000,0000,0000,,Okay.
+Dialogue: 0,0:21:00.25,0:21:02.92,Main,,0000,0000,0000,,{\i1}Having said,\N"Leave it to me!" with a smile,{\i}
+Dialogue: 0,0:21:03.05,0:21:05.34,Main,,0000,0000,0000,,{\i1}it was too late for Koshitan to back down.{\i}
+Dialogue: 0,0:21:05.47,0:21:06.84,Signs,,0000,0000,0000,,{\3c&H375FC1&}DEER CLUB\NSEEKING NEW CLUB MEMBERS
+Dialogue: 0,0:21:06.97,0:21:09.85,Main,,0000,0000,0000,,The Deer Club is born! Yay!
+Dialogue: 0,0:21:09.97,0:21:14.10,Main,,0000,0000,0000,,{\i1}This is an incredible turn\Nof events for one single day.{\i}
+Dialogue: 0,0:21:14.23,0:21:16.98,Main,,0000,0000,0000,,I'll bring more deer crackers tomorrow!
+Dialogue: 0,0:21:19.61,0:21:20.98,Main,,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:21:21.61,0:21:24.24,Main,,0000,0000,0000,,I guess you can get started\Nby giving me a good brushing.
+Dialogue: 0,0:21:24.36,0:21:25.99,Main,,0000,0000,0000,,You've gotta be kidding!
+Dialogue: 0,0:21:26.11,0:21:28.66,Main,,0000,0000,0000,,And what's with the weird brush?
+Dialogue: 0,0:21:28.78,0:21:30.37,Main,,0000,0000,0000,,It's for animals.
+Dialogue: 0,0:21:32.62,0:21:35.21,Main,,0000,0000,0000,,Fine! Let's just get it over with.
+Dialogue: 0,0:21:35.33,0:21:36.50,Main,,0000,0000,0000,,Notsu!
+Dialogue: 0,0:21:36.62,0:21:38.96,Main,,0000,0000,0000,,Damn it. Why me?
+Dialogue: 0,0:21:47.38,0:21:51.81,Main,,0000,0000,0000,,Damn it... Am I going to\Nhave to do this all the time?
+Dialogue: 0,0:21:55.18,0:21:58.56,Main,,0000,0000,0000,,Damn you, you vermin!
+Dialogue: 0,0:21:58.69,0:21:59.98,Main,,0000,0000,0000,,{\i1}Y-Yikes!{\i}
+Dialogue: 0,0:22:00.11,0:22:01.52,Main,,0000,0000,0000,,{\i1}I have no idea what's going on,{\i}
+Dialogue: 0,0:22:01.65,0:22:04.86,Main,,0000,0000,0000,,{\i1}but it appears\Nthe Deer Club's fight is just beginning!{\i}
+
